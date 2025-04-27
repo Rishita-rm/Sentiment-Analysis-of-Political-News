@@ -66,12 +66,16 @@ Open Sentiment_Analysis_of_Political_News_.ipynb
 
 Follow the notebook sequentially.
 
+---
+
 ## 📊 Results
 Accuracy and F1 Scores across 5 different folds.
 
 Confusion Matrix plotted to visualize classification performance.
 
 LIME Explainability to understand individual news predictions.
+
+---
 
 ## 🙏 Acknowledgments
 HuggingFace for pre-trained models.
@@ -80,8 +84,12 @@ Sources of the political news dataset.
 
 Scikit-learn and LIME contributors.
 
+---
+
 ## 📜 License
 This project is licensed under the MIT License.
+
+---
 
 ## ✨ Screenshots (Optional)
 (Add screenshots of confusion matrix plots, LIME explanations, etc., if you want to make your repo look even cooler.)
