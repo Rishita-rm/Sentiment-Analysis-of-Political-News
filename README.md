@@ -79,16 +79,15 @@ Follow the notebook sequentially.
 ---
 
 ## 🙏 Acknowledgments
-HuggingFace for pre-trained models.
 
-Sources of the political news dataset.
-
-Scikit-learn and LIME contributors.
+- HuggingFace for pre-trained models.
+- Sources of the political news dataset.
+- Scikit-learn and LIME contributors.
 
 ---
 
 ## 📜 License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
 ---
 
