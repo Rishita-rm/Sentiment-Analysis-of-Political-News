@@ -69,11 +69,12 @@ Follow the notebook sequentially.
 ---
 
 ## 📊 Results
-Accuracy and F1 Scores across 5 different folds.
 
-Confusion Matrix plotted to visualize classification performance.
-
-LIME Explainability to understand individual news predictions.
+- Achieved **84% overall accuracy** on political news sentiment classification.
+- Maintained **strong F1 scores** across Positive, Negative, and Neutral categories.
+- **5-Fold Stratified Cross-Validation** used to ensure robustness.
+- Visualized **Confusion Matrices** to assess per-class performance.
+- Generated **LIME explanations** to interpret model decisions at the instance level.
 
 ---
 
